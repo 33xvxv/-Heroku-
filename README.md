@@ -215,6 +215,6 @@ export default {
 
 
 
-特别鸣谢：Misaka、rptec、DaoChen6大佬提供教程和思路
+特别鸣谢：Misaka、rptec、DaoChen6大佬提供脚本、教程和思路
 
 
