@@ -19,7 +19,7 @@
 
 |  名称 | 值  | 说明  |
 | ------------ | ------------ | ------------ |
-|  PROTOCOL |  vless<br>vmess（可选） |  协议：vless+ws+tls或是vmess+ws+tls |默认vless
+|  PROTOCOL |  vless<br>vmess（可选） |  协议：vless+ws+tls或vmess+ws+tls |默认vless
 |  UUID |  [uuid在线生成器](https://www.uuidgenerator.net "uuid在线生成器") | 用户主ID  |
 
 
