@@ -5,7 +5,7 @@
 【金山文档】 Heroku搭建教程 https://kdocs.cn/l/cuGOXoYA2DwO
 
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)https://heroku.com/deploy?template=
 
 ## 注意事项
 ### heroku上部署v2ray
@@ -198,19 +198,18 @@ export default {
 ### 客户端配置
 
 ```
-  - name: "yourName"
-    type: vmess
-    server: yourName.workers.dev
-    port: 443
-    uuid: yourUuid
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    #skip-cert-verify: true
-    servername: yourName.workers.dev
-    network: ws
-    ws-path: /
+  - 别名: "yourName"
+    协议: vless
+    地址: yourName.workers.dev
+    端口: 443
+    用户id: yourUuid
+    流控: xtls-rprx-direct
+    加密: none
+    伪装域名: yourName.workers.dev
+    传输类型: ws
+    路径: /
+    传输层安全：tls   跳过证书验证：false
+    SNI：yourName.workers.dev
 ```
 
 
