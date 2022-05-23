@@ -5,7 +5,7 @@
 【金山文档】 Heroku搭建教程 https://kdocs.cn/l/cuGOXoYA2DwO
 
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)https://heroku.com/deploy?template=
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/33xvxv/-Heroku-.git)
 
 ## 注意事项
 ### heroku上部署v2ray
