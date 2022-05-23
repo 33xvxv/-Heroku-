@@ -5,7 +5,7 @@
 【金山文档】 Heroku搭建教程 https://kdocs.cn/l/cuGOXoYA2DwO
 
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/DaoChen6/Heroku-v2ray.git)
+[![](https://www.herokucdn.com/deploy/button.png)]https://heroku.com/deploy?template=
 
 ## 注意事项
 ### heroku上部署v2ray
@@ -215,6 +215,6 @@ export default {
 
 
 
-特别鸣谢：Misaka、rptec大佬提供教程和思路
+特别鸣谢：Misaka、rptec、DaoChen6大佬提供教程和思路
 
 
